@@ -4,7 +4,7 @@
 ```csharp
 github.com/naouts
 dc   $  @na0uts
-srv  $  discord.gg/crosshair
+srv  $  discord.gg/shotzy
 ```
 &zwnj; 
 &zwnj; 
